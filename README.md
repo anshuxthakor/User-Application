@@ -86,4 +86,4 @@ PATCH /api/notes/:id
 
 ## License
 
-ISC
+This project is licensed for personal and non-commercial use only. See the LICENSE file for full details.
